@@ -1,1 +1,1 @@
-# LTHT
+#Bỏ code vào file LTHT.cpp
